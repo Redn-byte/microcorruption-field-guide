@@ -12,7 +12,7 @@
 
 ## for after you've solved a level (not before)
 
-there's a real, long-standing community norm against posting full solutions publicly while they'd spoil the game for others — the earliest writeup I found for this exact CTF was deliberately taken down for that reason, by its own author, unprompted. so: solve it yourself first, using the hint ladders in `levels/`. once you have — or once you've truly exhausted the ladder and want to see how someone else's approach differed from yours — a number of people have published their full writeups and solution notes. search `microcorruption writeup <level name>` once you're past a level and you'll find several independent approaches most of the time; comparing your solution against two or three others is a genuinely good way to learn, after the fact, in a way that reading someone else's answer first never is.
+there's a real, long-standing community norm against posting full solutions publicly while they'd spoil the game for others. so: solve it yourself first, using the hint ladders in `levels/`. once you have — or once you've truly exhausted the ladder and want to see how someone else's approach differed from yours — a number of people have published their full writeups and solution notes. search `microcorruption writeup <level name>` once you're past a level and you'll find several independent approaches most of the time; comparing your solution against two or three others is a genuinely good way to learn, after the fact, in a way that reading someone else's answer first never is.
 
 ## adjacent things worth knowing exist
 
